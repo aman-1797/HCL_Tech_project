@@ -1,0 +1,31 @@
+Order_ID,Customer_ID,Customer_Name,Category,City,Order_Date,Delivery_Date,Order_Value,Status,Rating,Feedback
+O1001,C001,Amit Sharma,Electronics,Delhi,05-01-24,09-01-24,12000,Completed,5,Good product
+O1002,C002,Priya Singh,Clothing,Mumbai,08-01-24,12-01-24,2500,Completed,4,Nice fit
+O1003,C003,Rahul Verma,Electronics,Bangalore,10-01-24,15-01-24,8500,Cancelled,1,Delayed delivery
+O1004,C004,Sneha Reddy,Home Decor,Hyderabad,12-01-24,17-01-24,3200,Completed,5,Loved it
+O1005,C005,Karan Mehta,Books,Delhi,15-01-24,18-01-24,600,Completed,4,Fast delivery
+O1006,C001,Amit Sharma,Electronics,Delhi,18-01-24,23-01-24,15000,Completed,5,Excellent
+O1007,C006,Neha Kapoor,Clothing,Chennai,20-01-24,26-01-24,1800,Returned,3,Wrong size
+O1008,C007,Rohit Gupta,Electronics,Pune,22-01-24,28-01-24,22000,Completed,5,Worth it
+O1009,C008,Ananya Das,Home Decor,Kolkata,25-01-24,01-02-24,4500,Completed,4,Good quality
+O1010,C009,Vikram Joshi,Books,Delhi,27-01-24,30-01-24,450,Completed,5,Quick delivery
+O1011,C010,Simran Kaur,Electronics,Chandigarh,01-02-24,06-02-24,9500,Cancelled,2,Took too long
+O1012,C002,Priya Singh,Clothing,Mumbai,03-02-24,08-02-24,3100,Completed,4,Happy with it
+O1013,C011,Arjun Nair,Home Decor,Kochi,05-02-24,11-02-24,2700,Completed,3,Okay product
+O1014,C012,Divya Iyer,Books,Bangalore,07-02-24,10-02-24,700,Completed,5,Great service
+O1015,C003,Rahul Verma,Electronics,Bangalore,09-02-24,14-02-24,11000,Completed,4,Satisfied
+O1016,C013,Manish Patil,Clothing,Pune,12-02-24,18-02-24,2200,Returned,2,Damaged item
+O1017,C014,Pooja Menon,Electronics,Thiruvananthapuram,14-02-24,20-02-24,18000,Completed,5,Best buy
+O1018,C015,Sameer Ali,Home Decor,Lucknow,16-02-24,22-02-24,3900,Completed,3,Average
+O1019,C004,Sneha Reddy,Books,Hyderabad,18-02-24,21-02-24,550,Completed,5,Fast delivery
+O1020,C016,Tina Sharma,Clothing,Delhi,20-02-24,26-02-24,1600,Cancelled,1,Never arrived
+O1021,C005,Karan Mehta,Electronics,Delhi,22-02-24,28-02-24,14000,Completed,4,Good product
+O1022,C017,Deepak Rao,Home Decor,Chennai,25-02-24,02-03-24,3300,Completed,4,Nice item
+O1023,C018,Kavya Reddy,Books,Hyderabad,27-02-24,01-03-24,400,Completed,5,Quick delivery
+O1024,C006,Neha Kapoor,Clothing,Chennai,01-03-24,07-03-24,2400,Completed,4,Happy
+O1025,C019,Aditya Singh,Electronics,Jaipur,03-03-24,09-03-24,16500,Completed,5,Excellent
+O1026,C020,Ritika Sen,Home Decor,Kolkata,05-03-24,11-03-24,4100,Returned,2,Not as shown
+O1027,C007,Rohit Gupta,Books,Pune,07-03-24,10-03-24,350,Completed,5,Fast delivery
+O1028,C021,Suresh Yadav,Clothing,Delhi,09-03-24,15-03-24,2800,Cancelled,2,Late delivery
+O1029,C008,Ananya Das,Electronics,Kolkata,11-03-24,17-03-24,13000,Completed,4,Good
+O1030,C022,Meera Nambiar,Home Decor,Kochi,13-03-24,19-03-24,3600,Completed,5,Loved it
